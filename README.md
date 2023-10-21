@@ -1,2 +1,2 @@
-# pet_store_api
-Python tests for https://petstore.swagger.io/
+
+This project contains python Selenium tests for testing some cases on the Epam web site.
